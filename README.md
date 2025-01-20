@@ -33,8 +33,8 @@ This repo consist of 4 directories, in each directory you wil find 2 files per t
 |------------------------------------------|------------------------------------------|-----------------------------------------------|-------------------------------|--------------------------|--------------------------|
 |  **20%**  |**Heading Element**  | Matches the png image?   |    |  X        |      you should have used h2, h3, etc. | 
 | **20%**  |**Paragraph Element** | Matches the png image?               |        | X  |  you are using style and more concepts that are not needed, and it does not match.  | 
-| **20%**  |**Void Element**      | Matches the png image?       |        |X | you are using style and more concepts that are not needed, and it does not match. | 
-| **40%**  |**Movie Ranking** | Matches the png image?         |    |   X |you are using style and more concepts that are not needed, and it does not match. | 
+| **20%**  |**Void Element**      | Matches the png image?       |  X      | | you are using style and more concepts that are not needed, and it does not match. | 
+| **40%**  |**Movie Ranking** | Matches the png image?         |  X  |    |you are using style, changing fonts and more concepts that are not needed, and it does not match. | 
 
 You are using more advanced concepts but they are not adding value to your deliverable, either you know these advanced concepts or AI assistant is doing the work for you, either approach you are using, does not seem to work.
 
